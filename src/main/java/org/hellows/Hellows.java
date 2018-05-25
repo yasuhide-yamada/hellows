@@ -9,6 +9,6 @@ import org.slf4j.LoggerFactory;
 public class Hellows{
 	Logger logger = LoggerFactory.getLogger(this.getClass());
 	public void exec() {
-		logger.debug("Hellows exec  3 ");
+		logger.debug("Hellows exec  4 ");
 	}
 }
